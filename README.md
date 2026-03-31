@@ -15,7 +15,7 @@ This project was completed for CIVE 202 on behalf of the Federal Highway Adminis
 | `Project3_SOW_Kosmicki.docx` | Scope of Work describing project objectives, variable selection, tasks, and deliverables |
 | `Project3_AnnotatedCode.docx` | Annotated code reference table explaining each line of Python code |
 | `Project3_Timesheet_Kosmicki.xlsx` | Engineering timesheet documenting hours spent on each task |
-| `Project3_GanttChart_Kosmicki.*` | Gantt chart of project activities and schedule |
+| `Project3_GanttChart_Kosmicki.` | Gantt chart of project activities and schedule |
 | `README.md` | This file |
 
 ## How to Run the Code
