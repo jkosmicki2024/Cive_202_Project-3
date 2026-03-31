@@ -33,5 +33,3 @@ This project was completed for CIVE 202 on behalf of the Federal Highway Adminis
 ### User Guide for Sequential Prompts
 This notebook does not require any user input prompts. All variables, trajectory selections, and IDM parameters are set directly in the code cells. To change which trajectory pair is analyzed, modify the `trajectory_number` variable in Sections 4.3 and 5.3.
 
-## Author
-Jacob Kosmicki — CIVE 202, Spring 2026
